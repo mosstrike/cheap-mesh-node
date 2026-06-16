@@ -34,7 +34,7 @@ This design is heavily based on:
 ---
 
 ## How to build
-- [Buy components]([doc/wiki/](https://github.com/mosstrike/cheap-mesh-node/wiki/Buy))
+- [Buy components](https://github.com/mosstrike/cheap-mesh-node/wiki/Buy)
 - [Order PCB](https://github.com/mosstrike/cheap-mesh-node/wiki/OrderPCB)
 - [Flashing NRF52](https://github.com/mosstrike/cheap-mesh-node/wiki/Flashing)  
 - [Assembly](https://github.com/mosstrike/cheap-mesh-node/wiki/Assembly)
