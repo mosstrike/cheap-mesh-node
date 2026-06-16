@@ -17,7 +17,6 @@ This design is heavily based on:
   No micro-soldering and no need to source dozens of tiny components. Everything is built using inexpensive, readily available modules from AliExpress.
 
 - **Extremely affordable**  
-  Complete build cost (PCB, battery, and components) is under **€20**.
 
 - **MPPT solar charging + BMS protection**  
   Efficient charging even on cloudy days, with battery over-discharge protection.
