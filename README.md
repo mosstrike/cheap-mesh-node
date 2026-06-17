@@ -17,8 +17,8 @@ This design is heavily based on:
   No micro-soldering and no need to source dozens of tiny components. Everything is built using inexpensive, readily available modules from AliExpress.
 
 - **Extremely affordable**  
-  Complete build cost (PCB, battery, and components) is under **€20**.
-
+  Less than 30€, inluding NRF52, BMS, battery, solar mppt and solar panel. Plus other 20€ or less on a decent antenna. (Or DIY a **ground plane antenna** for free)
+  
 - **MPPT solar charging + BMS protection**  
   Efficient charging even on cloudy days, with battery over-discharge protection.
 
