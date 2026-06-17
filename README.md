@@ -20,7 +20,7 @@ This design is heavily based on:
   Less than 30€, inluding NRF52, BMS, battery, solar mppt and solar panel. Plus other 20€ or less on a decent antenna. (Or DIY a **ground plane antenna** for free)
   
 - **MPPT solar charging + BMS protection**  
-  Efficient charging even on cloudy days, with battery over-discharge protection.
+  Efficient charging even on cloudy days, with battery over-discharge protection. Connect solar pannel directly to S+ and S- pads.
 
 - **nRF52840-based**  
   Extremely low power consumption. Even with limited sunlight, the node can operate for weeks without issues.
