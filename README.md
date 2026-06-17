@@ -27,10 +27,6 @@ This design is heavily based on:
 
 - **Excellent range**  
   Tested at over **200 km line-of-sight**, thanks to the HT-RA62 LoRa module.
-
-- **Open hardware**  
-  PCB files, schematics, and design sources are fully available for inspection, modification, and redistribution.
-
 ---
 
 ## How to build
